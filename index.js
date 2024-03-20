@@ -61,5 +61,3 @@ app.post('/api/text', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
 });
-
-
