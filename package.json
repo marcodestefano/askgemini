@@ -1,0 +1,23 @@
+{
+  "name": "askgemini",
+  "version": "1.0.0",
+  "description": "askgemini",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcodestefano/askgemini.git"
+  },
+  "author": "Marco De Stefano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcodestefano/askgemini/issues"
+  },
+  "homepage": "https://github.com/marcodestefano/askgemini#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.3.1",
+    "express": "^4.18.3"
+  }
+}
