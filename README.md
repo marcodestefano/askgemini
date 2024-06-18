@@ -1,6 +1,6 @@
 # askgemini
 
-API wrapper for Gemini Pro https://ai.google.dev/tutorials/node_quickstart
+API wrapper for Google Gemini https://ai.google.dev/tutorials/node_quickstart
 
 API available on : https://askgemini.onrender.com/api
 
